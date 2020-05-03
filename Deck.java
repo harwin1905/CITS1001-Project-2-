@@ -1,7 +1,7 @@
 /** Represents a deck of cards, and operations that can be performed
  * on it.
  * 
- * @author Arran Stewart
+ * @22254937 - Harwinddranath Muralitheran 
  *
  */
 
